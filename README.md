@@ -1,9 +1,7 @@
 
 <br>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=50&pause=1000&color=1343F7&background=2BFF2F00&center=true&vCenter=true&width=435&lines=Hello+World!!+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&size=50&pause=1000&color=1343F7&background=2BFF2F00&center=true&vCenter=true&width=435&height=100&lines=Hello+World!!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 # About Me 😁
 ### I'm Alvin a Programming and Developer enthusiast from Indonesian.
